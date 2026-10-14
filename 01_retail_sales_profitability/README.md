@@ -40,6 +40,12 @@ The analysis produced the following results:
 | Apparel | $80,252.32 | $26,773.92 |
 | Office | $43,725.06 | $15,046.49 |
 
+## Monthly Revenue Visualization
+
+![Monthly Revenue Trend](outputs/monthly_revenue.png)
+
+This chart illustrates monthly revenue trends across the retail dataset, helping identify changes in sales performance over time.
+
 **Electronics was the strongest-performing category**, generating the highest revenue and total gross profit.
 
 Home products ranked second, while Apparel and Office contributed smaller portions of overall sales.
